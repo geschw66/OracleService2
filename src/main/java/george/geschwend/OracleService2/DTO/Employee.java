@@ -14,6 +14,9 @@ import java.util.Date;
  * @author George C. Geschwend
  * @date 4/30/2023 3:50 PM
  * @project OracleService2
+ *
+ * This is an example entity object (model). it is mapped directly to the database table EMPLOYEE with
+ * the schema FRED (high level ...in oracle terms is a "user").
  */
 
 @Data

@@ -1,6 +1,6 @@
 # OracleService2
 This simple project shows how a read only user: C##BARNEY accesses a table in the FRED user/schema named employee
-The entity Employee has a @Table(name="Employee, schema="FRED"
+The entity Employee has a @Table(name="Employee, schema="FRED")
 
 NOTE:
 Somewhere in  Spring Data JPA, for the oracle driver or oracle database type... it doesn't like schemas starting with C##. As a result I had to resort in
